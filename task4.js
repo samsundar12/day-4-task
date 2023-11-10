@@ -13,7 +13,7 @@ var a=function (arr){
 } 
 console.log(a([1,2,3,4,5,6,7,8,9,10,12,13,]))*/
 
-//IIFE
+
 
 /*var result =[]
 (function (arr){
